@@ -14,7 +14,7 @@ struct ContentView: View {
                 .foregroundStyle(Color.green)
                 .fontWeight(.black)
                 .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
-            Text("This is just for testing")
+            Text("Omg! the Push It Works")
         }
         .padding()
     }
